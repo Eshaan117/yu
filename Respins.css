@@ -1,0 +1,99 @@
+*{
+	padding:0rem;
+	margin:0rem;
+}
+
+@media only screen and (min-width:300px) and (max-width:400px){
+	
+	/* Styling begins here  as well */
+	.Spanner{
+		
+	
+		
+		/*Giving it text-align as center */
+		text-align:center;
+		border:1px solid green;
+		padding:10px;
+		background-color:navy;
+		color:white;
+		margin-bottom:9px;
+		font-family:aerial , helvetica , sans-serif;
+		font-size:25px;
+		letter-spacing:1.2;
+		
+	
+		
+		
+		
+		
+		
+	}
+	/* Now also spacing and here is the thing */
+	/*handling the form*/
+	
+	.Former{
+		
+		padding:10px;
+		display:block;
+		
+	}
+	
+	
+	
+	
+	/*Handling the input as well */
+	.Former .inputz{
+		margin-top:8px;
+		padding:2px;
+		margin-left:2px;
+		width:275px;
+	}
+	
+	.Former label{
+		font-family:aerial , helvetica , sans-serif;
+		font-size:22px;
+		margin-top:5px;
+	}
+	
+	.Former .Blocker{
+		margin-top:20px;
+		
+	}
+	
+	.Former #hade{
+		
+		margin-left:100px;
+		margin-top:30px;
+		padding:5px;
+		background-color:green;
+		color:white;
+		font-family:aerial , helvetica , sans-serif;
+		font-size:20px;
+		border:none;
+		border-radius:3px;
+	}
+
+
+	
+	
+	
+}
+
+@media only screen and (min-width:330px) and (max-width:400px){
+	
+	
+	/* And here is the thing you must be able to know */
+	
+	.Former .inputz{
+		
+		width:350px;
+		
+		
+		
+	}
+	.Former #hade{
+		
+		margin-left:150px;
+		
+	}
+}
